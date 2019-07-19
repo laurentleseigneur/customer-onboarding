@@ -76,7 +76,7 @@
           <children xmi:type="notation:DecorationNode" xmi:id="_0nohW6oiEem6iq0b8JzKeA" type="7002">
             <children xmi:type="notation:Shape" xmi:id="_0nohXKoiEem6iq0b8JzKeA" type="3005" element="_0nohJ6oiEem6iq0b8JzKeA" fontName=".AppleSystemUIFont" fillColor="14334392" lineColor="10710316">
               <children xmi:type="notation:DecorationNode" xmi:id="_0nohXaoiEem6iq0b8JzKeA" type="5005"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0nohXqoiEem6iq0b8JzKeA" x="160" y="60"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0nohXqoiEem6iq0b8JzKeA" x="105" y="109"/>
             </children>
             <children xmi:type="notation:Shape" xmi:id="_0nohX6oiEem6iq0b8JzKeA" type="3002" element="_0nohI6oiEem6iq0b8JzKeA" fontName=".AppleSystemUIFont">
               <children xmi:type="notation:DecorationNode" xmi:id="_0nohYKoiEem6iq0b8JzKeA" type="5024">
